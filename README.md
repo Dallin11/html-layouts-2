@@ -5,7 +5,7 @@ html-layouts-2
 
 ##Objectives
 Understand HTML and its uses in layout by completing a series of tasks
-
+Dallin was here
 ##Directions
 Just like html-layout the original, each folder contains an image you need to recreate using HTML and CSS
 
